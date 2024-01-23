@@ -80,8 +80,12 @@ h2 {
     margin-top: 10px;
 }
 
+.news {
+    text-align: center;
+}
+
 .news__ttl {
-    margin: 150px 0 0 350px;
+    margin: 150px 650px auto auto;
 }
 
 .news__border {
@@ -171,8 +175,12 @@ height: 500px;
     width: 100%;
 }
 
+.service {
+    text-align: center;
+}
+
 .service__ttl {
-    margin: 100px 0 0 220px;
+    margin: 100px 870px auto auto;
 }
 
 .service__contents {
@@ -263,10 +271,11 @@ h3 {
 .blog {
     height: 650px;
     background-color: gainsboro;
+    text-align: center;
 }
 
 .blog__ttl {
-    margin: 170px 0 0 220px;
+    margin: 170px 890px auto auto;
     padding-top: 50px;
 }
 
@@ -331,8 +340,12 @@ h3 {
     border: solid 2px #a8006f;
 }
 
+.company {
+    text-align: center;
+}
+
 .company__ttl {
-    margin: 70px 0 50px 300px;
+    margin: 70px 550px 50px auto;
 }
 
 .company__contents table {
