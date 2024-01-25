@@ -180,7 +180,8 @@ height: 500px;
 }
 
 .service__ttl {
-    margin: 100px 870px auto auto;
+    margin: 100px 1050px auto auto;
+    width: 200px
 }
 
 .service__contents {
