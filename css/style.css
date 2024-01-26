@@ -375,6 +375,7 @@ table, th, td {
 .footer__flex {
     margin: 70px auto;
     display: flex;
+    text-align: center;
 }
 
 .footer__item1 img {
@@ -391,9 +392,9 @@ table, th, td {
 
 .footer__items--ttl {
     color: white;
-    margin: -150px 0 0 0;
     font-size: 30px;
     text-align: center;
+    margin: -140px 0 0 0;
 }
 
 .form {
