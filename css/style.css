@@ -372,29 +372,31 @@ table, th, td {
     border: 1px solid gray;
 }
 
-.footer__flex {
-    margin: 70px auto;
+.footer__items {
+    width: 100%;
+    height: 300px;
     display: flex;
-    text-align: center;
+    margin-top: 70px;
 }
 
-.footer__item1 img {
-    display: block;
-    width: 50vw;
-    height: auto;
+.footer__item1 {
+    background-image: url(../img/recruit.png);
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.footer__item2 img {
-    display: block;
-    width: 50vw;
-    height: auto;
+.footer__item2 {
+    background-image: url(../img/interview.png);
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer__items--ttl {
-    color: white;
-    font-size: 30px;
-    text-align: center;
-    margin: -140px 0 0 0;
+    font-size: 25px;
 }
 
 .form {
